@@ -7,7 +7,7 @@
 ### Hi there 👋
 I'm junior backed developer based in Ulsan, KR
 
-I double majored in Integration of Science and Technology and Business Administration and Information in Ulsan University.<br>
+I double majored in Integration of Science and Technology & Business Administration and Information in Ulsan University.<br>
 I like problem solving, traveling and swimming🏊‍♀️.<br>
 I also like to exlore many different place and cultures.
 
